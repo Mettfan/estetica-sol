@@ -1,0 +1,25 @@
+.infoContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.servicesContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 500px;
+}
+.featuresContainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.servicesContainerPad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

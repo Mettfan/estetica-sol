@@ -1,0 +1,22 @@
+.whatsappLogo{
+    width: 50px;
+    padding: 10px;
+}
+.contactContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.mapsLogo{
+    width: 50px;
+}
+.mapsContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.phoneContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

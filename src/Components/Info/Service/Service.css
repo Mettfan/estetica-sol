@@ -1,0 +1,7 @@
+.serviceContainer{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    background-color: rgb(229, 181, 77);
+    padding: 15px;
+}

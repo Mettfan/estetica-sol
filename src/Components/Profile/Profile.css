@@ -1,0 +1,15 @@
+.profileImageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(229, 181, 77);
+    width: 400px;
+    padding: 20px;
+}
+.profileImage{
+    width: 200px;
+    border-radius: 100px;
+}
+.profileName{
+    padding: 10px;
+}
